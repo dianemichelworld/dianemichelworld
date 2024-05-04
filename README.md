@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dianemichelworld
 - 👀 I’m interested in ...all things AI, UX and accessibility
 - 🌱 I’m currently learning ...AI for search, public health data
-- 💞️ I’m looking to collaborate on ...AI for search
+- 💞️ I’m looking to collaborate on ...AI for search, Accessibility and AI for elders, AI for public health data
 - 📫 How to reach me ...diane@diane-michelcom
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
